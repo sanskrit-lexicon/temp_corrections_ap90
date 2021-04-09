@@ -8,6 +8,8 @@
 2538:arati:officiater:OK
 ;this is acc to scan but this word is not valid
 ;I think it could be <officiant>
+; jim change to officiator  (noun form of officiate)
+; scan error
 2658:arDaSata:sloka:OK
 2707:alam:plenteously:OK
 2782:avatta:dyati:OK
@@ -22,10 +24,12 @@
 6186:kf:appoit:appoint
 ;the word <at> missing from the same sentence
 ;<place the head of, appoint to> changed to <place at the head of, appoint to>
+; jim: agree with changes
 6194:kfcCrakarman:prectising:practising
 6194:kfcCrakarman:dangerousness:OK
 6205:kftapada:pervious:OK
 6274:kxp:jamd:hand
+; jim also removed period:  'prepared., at hand' -> 'prepared, at hand'
 6335:koNkAra:kom:OK
 6684:Kan:piere:pierce
 6684:Kan:imbed:OK
@@ -38,6 +42,7 @@
 7842:jan:predestinated:OK
 ;clearly as per scan
 ;I think it should be <predestined>
+; jim: agree with OK.  predestinated may be archaic.
 8101:jIvin:fp:OK
 8827:trayodaSaDA:thirteenfold:OK
 8875:tripfzWa:xc:OK
@@ -57,6 +62,9 @@
 11451:pAtaYjala:jali:OK
 ;several scan errors for this headword
 ;<g> printed in place of <j> for word <Patanjali> 4 times
+; jim:  In spelling a Sanskrit word in Roman letters with diacritics,
+;  MD dictionary uses an italic 'g' in a special way.
+; We have changed that italic 'g' to 'j', the current IAST spelling.
 11571:pAvIrava:paviru:OK
 11590:picCala:lubricous:OK
 11934:pfzWadeSa:sumpter:OK
@@ -94,6 +102,7 @@
 14688:yaTArTa:withh:with
 14984:rakzA:preservate:preservative
 14984:rakzA:sovran:OK
+; jim archaic for sovereign ?
 15016:rajju:rasj:OK
 15474:laNG:sthitim:OK
 ;sanskrit word
@@ -128,6 +137,8 @@
 16774:viSvAsin:trustwothy:trustworthy
 16787:vizataru:poisonousness:OK
 16833:vizwi:socage:soccage
+; jim: both socage and soccage seem like accepted spellings
+; print has 'soccage', so agree with that spelling.
 16839:vizpaS:spier:OK
 16922:vf:prisoned:OK
 16923:vf:patnim:OK
@@ -185,7 +196,9 @@
 19791:sOmya:moonlike:OK
 19819:sOzWava:vigorousness:OK
 19827:skad:spirt:OK
+; jim: old spelling of 'spurt'
 19900:stUpa:tope:OK
+; jim: another term for stupa.
 19946:sTA:maunena:OK
 ;sanskrit word
 20006:snAyu:sinewband:sinew band
