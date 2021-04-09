@@ -430,25 +430,29 @@
 20492:taraNgin:restessly:restlessly
 ;scan error
 20653:taSlI:trigon:OK
-20670:tAcCIlya:consuetude
-20912:tiTi:sunrising
-20970:tila:caky
-20971:tilaka:burde
-21011:tIrTa:pndendum
-21095:tundita:gorbellied
-21120:tura:equestrain
-21252:tfRa:gramineousness
-21313:tF:waythrough
-21313:tF:perphaps
-21550:tri:lowerworld
-21550:tri:trifoliate
-21550:tri:trinomial
-21560:trika:regio
-21693:tvAca:cuticular
-21713:tvizi:impetuousity
-21783:dakzi:burnest
-21928:day:asander
-21990:dala:spinage
+20670:tAcCIlya:consuetude:OK
+;scan <consnetude> was wrong though.
+20912:tiTi:sunrising:OK
+20970:tila:caky:OK
+;probably variant of <chalky>
+20971:tilaka:burde:burden
+21011:tIrTa:pndendum:pudendum
+;vague scan
+21095:tundita:gorbellied:OK
+21120:tura:equestrain:equestrian
+21252:tfRa:gramineousness:OK
+21313:tF:waythrough:way through
+;space unclear in scan
+21313:tF:perphaps:perhaps
+21550:tri:lowerworld:lower world
+21550:tri:trifoliate:OK
+21550:tri:trinomial:OK
+21560:trika:regio:OK
+21693:tvAca:cuticular:OK
+21713:tvizi:impetuousity:OK
+21783:dakzi:burnest:OK
+21928:day:asander:asunder
+21990:dala:spinage:OK
 22009:daSan:decurion
 22076:dAnIya:bestowable
 22396:diS:atp
