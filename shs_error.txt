@@ -1,295 +1,507 @@
-41:aMhiti:beingins
-41:aMhiti:erted
-82:akAlasaha:waitng
-141:akzapAwika:beforewith
-153:akzara:indecayable
-167:akzasUtra:eleocarpus
-236:aguru:llium
-287:agnirajas:ascarlet
-315:agnInDana:sacificial
-377:aGora:resembance
-412:aNga:dramatis
-414:aNgagraha:siezes
-425:aNgaprAyaScitta:ond
-455:aNgAravallarI:verticallata
-464:aNgiras:astronomicalpersonification
-494:aNGrivallikA:lagopidiodes
-528:ajakarRaka:aesemblance
-531:ajaganDA:gratissimnm
-538:ajawA:follish
-547:ajamodA:involucratum
-555:ajaSfNgI:thoray
-557:ajahatsvArTA:spearmen
-601:aYja:anointwith
-603:aYjanakeSI:vegetabte
-608:aYjali:respectabiliy
-619:awa:wanderng
-634:awwahAsaka:beautys
-648:aRiman:moleculism
-675:atandrita:energetical
-683:atala:portin
-711:aticCatraka:musnroom
-748:atiBAra:aload
-806:atisArakin:afflixes
-828:atejas:feeblenss
-855:atyAcAra:odservance
-861:atyAhita:substi
-861:atyAhita:tuted
-867:atra:hereein
-873:atridfgja:lactea
-883:aTakim:howelse
-908:adAna:witholding
-1039:aDimAMsa:exrescences
-1040:aDimAMsaka:tensils
-1046:aDirAjyaBAj:paramoumt
-1047:aDirUQa:eexalted
-1055:aDivAsana:preliminery
-1155:aDvagaBogya:magnifera
-1201:ananta:pscudosarsa
-1204:anantajit:enternity
-1216:anantaSIrzA:surpents
-1258:anargala:unrostrained
-1263:anarTaka:discoure
-1293:anahaNkfti:absense
-1322:anAmaka:nofeless
-1322:anAmaka:menth
-1387:anirRIta:undertermined
-1445:anukalpa:succedaneous
-1492:anutApa:afrerwards
-1497:anuttara:therfore
-1514:anudruta:wowel
-1561:anupUrvvam:downwords
-1568:anubanDa:symtom
-1568:anubanDa:symtomatic
-1667:anuzaNga:cennexion
-1718:aneqamUka:fradulent
-1732:antaHSarIra:spritual
-1742:antatas:finaly
-1744:antara:abverds
-1747:antarajYa:forseseeing
-1768:antardahana:distillaion
-1783:antarlamba:tringle
-1795:antarhita:holdwith
-1799:antAvasAyin:barbar
-1820:antrAda:ascarides
-1850:annakozWa:granery
-1901:anyaSAKa:apostable
-1905:anyAya:indecorum
-1932:anvADeya:subsiquently
-1952:apakarmman:inpure
-1954:apakarza:attrack
-1997:apatantraka:emprosthotonos
-2040:apamftyu:causalty
-2120:apavAryya:atrical
-2125:apavidDaputra:filiation
-2202:apAya:disnnion
-2221:api:thongh
-2264:apekzAbudDi:methodising
-2304:apratarkya:incomprihensible
-2351:apravftti:inertion
-2351:apravftti:inchury
-2377:apriya:skeat
-2385:apsaras:foudness
-2465:aBavitavyatA:slso
-2493:aBicAra:pupposed
-2501:aBijit:muhurtta
-2509:aBiDA:sence
-2578:aBiyukta:procecuted
-2643:aBisampAta:imprication
-2700:aByantarAyAma:emprosthonos
-2704:aByarccana:ereverence
-2727:aByAdAna:begining
-2766:aBra:stmosphere
-2770:aBrapiSAcaka:fomer
-2864:amAnya:disresepected
-2880:amiSra:unmiximg
-2903:amfRAla:taties
-2914:amftavallI:moonseed
-2922:amftAsaNga:anthoriza
-3009:amrAta:plun
-3029:amlasAra:esxence
-3034:amlikA:tamarined
-3079:ayukcCada:sholaris
-3094:ayoguqa:chalybeate
-3114:arajas:fiux
-3116:araRi:spoinosa
-3167:arimeda:fatid
-3180:aruci:disrelish
-3189:aruRAtmaja:nore
-3191:aruRita:impurpled
+41:aMhiti:beingins:being
+;scan error
+41:aMhiti:erted:inserted
+;scan error
+82:akAlasaha:waitng:waiting
+;scan error
+141:akzapAwika:beforewith:before witholding
+correct in the text document
+153:akzara:indecayable:undecayable
+;scan error
+167:akzasUtra:eleocarpus:OK
+236:aguru:llium:OK
+;this is the second half of the word
+;first half of the word <Bede> should be <Bede->
+287:agnirajas:ascarlet:a scarlet
+;scan error
+315:agnInDana:sacificial:sacrificial
+;scan error
+377:aGora:resembance:resemblance
+;scan error
+412:aNga:dramatis:OK
+414:aNgagraha:siezes:seizes
+;scan error
+425:aNgaprAyaScitta:ond:and:+
+;scan error
+455:aNgAravallarI:verticallata:OK
+464:aNgiras:astronomicalpersonification:astronomical personification:+
+;scan error
+494:aNGrivallikA:lagopidiodes:OK
+528:ajakarRaka:aesemblance:resemblance:+
+;scan error
+;unsure
+531:ajaganDA:gratissimnm:gratissimum:+
+;scan error
+538:ajawA:follish:foolish:+
+547:ajamodA:involucratum:OK
+555:ajaSfNgI:thoray:thorny:+
+557:ajahatsvArTA:spearmen:OK
+601:aYja:anointwith:annoint : with:+
+603:aYjanakeSI:vegetabte:vegetable:+
+;scan error
+608:aYjali:respectabiliy:respectability:+
+;scan error
+619:awa:wanderng:wandering:+
+;scan error
+634:awwahAsaka:beautys:beauty's:+
+;text entry is fine
+648:aRiman:moleculism:OK
+675:atandrita:energetical:OK
+683:atala:portin:portion:+
+;scan error
+711:aticCatraka:musnroom:mushroom:+
+;scan error
+748:atiBAra:aload:a load:+
+;scan error
+806:atisArakin:afflixes:affixes:+
+;scan error
+828:atejas:feeblenss:feebleness:+
+;scan error
+855:atyAcAra:odservance:observance:+
+;scan error
+861:atyAhita:substi:substi-:+
+;scan error
+861:atyAhita:tuted:OK
+;second half of the word <substituted>
+867:atra:hereein:herein:+
+;scan error
+873:atridfgja:lactea:OK
+883:aTakim:howelse:how else:+
+;scan error
+908:adAna:witholding:withholding:+
+;scan error
+1039:aDimAMsa:exrescences:excrescences:+
+1040:aDimAMsaka:tensils:tonsils:+
+;scan error
+1046:aDirAjyaBAj:paramoumt:paramount:+
+;scan error
+1047:aDirUQa:eexalted:exalted:+
+;scan error
+1055:aDivAsana:preliminery:preliminary:+
+;scan error
+1155:aDvagaBogya:magnifera:OK
+1201:ananta:pscudosarsa:pseudosarsa:+
+;scan error
+1204:anantajit:enternity:eternity:+
+;scan error
+1216:anantaSIrzA:surpents:serpents:+
+;scan error
+1258:anargala:unrostrained:unrestrained:+
+;scan error
+1263:anarTaka:discoure:discourse:+
+;scan error
+1293:anahaNkfti:absense:absence:+
+;scan error
+1322:anAmaka:nofeless:noteless:+
+;scan error
+1322:anAmaka:menth:month:+
+;scan vague
+1387:anirRIta:undertermined:undetermined:+
+1445:anukalpa:succedaneous:OK
+1492:anutApa:afrerwards:afterwards:+
+;scan error
+1497:anuttara:therfore:therefore:+
+;scan error
+1514:anudruta:wowel:vowel:+
+;scan error
+1561:anupUrvvam:downwords:downwards:+
+;scan error
+1568:anubanDa:symtom:symptom:+
+;scan error
+1568:anubanDa:symtomatic:symptomatic:+
+;scan error
+1667:anuzaNga:cennexion:OK
+;<connexion> is a British spelling
+;appears twice in this definition. I have left it as is in both places
+1718:aneqamUka:fradulent:fraudulent:+
+;scan error
+1732:antaHSarIra:spritual:spiritual:+
+;scan error
+1742:antatas:finaly:finally:+
+;scan error
+1744:antara:abverds:adverbs:+
+;scan error
+1747:antarajYa:forseseeing:foreseeing:+
+;scan error
+1768:antardahana:distillaion:distillation:+
+;scan error
+1783:antarlamba:tringle:triangle:+
+;scan error
+1795:antarhita:holdwith:hold with
+;space is included in the text
+1799:antAvasAyin:barbar:barber:+
+;scan error
+1820:antrAda:ascarides:OK
+1850:annakozWa:granery:granary:+
+;scan error
+1901:anyaSAKa:apostable:OK
+1905:anyAya:indecorum:OK
+1932:anvADeya:subsiquently:subsequently:+
+;scan error
+1952:apakarmman:inpure:impure:+
+;scan error
+1954:apakarza:attrack:attack:+
+;scan error
+1997:apatantraka:emprosthotonos:OK
+2040:apamftyu:causalty:casualty:+
+;scan error
+2120:apavAryya:atrical:theatrical:+
+;scan error
+2125:apavidDaputra:filiation:OK
+2202:apAya:disnnion:disunion:+
+2221:api:thongh:though:+
+;scan error
+2264:apekzAbudDi:methodising:OK
+2304:apratarkya:incomprihensible:incomprehensible:+
+;scan error
+2351:apravftti:inertion:OK
+2351:apravftti:inchury:ischury:+
+;scan error
+2377:apriya:skeat:OK
+2385:apsaras:foudness:fondness:+
+;scan error
+2465:aBavitavyatA:slso:also:+
+;scan error
+2493:aBicAra:pupposed:supposed:+
+;scan error
+2501:aBijit:muhurtta:muhurta:+
+;scan error
+2509:aBiDA:sence:sense:+
+;scan error
+2578:aBiyukta:procecuted:prosecuted:+
+;scan error
+2643:aBisampAta:imprication:imprecation:+
+;scan error
+2700:aByantarAyAma:emprosthonos:OK
+;another scan error <curvatute> changed to <curvature>
+2704:aByarccana:ereverence:reverence:+
+;scan error
+2727:aByAdAna:begining:beginning:+
+;scan error
+2766:aBra:stmosphere:atmosphere:+
+;scan error
+2770:aBrapiSAcaka:fomer:former:+
+;scan error
+2864:amAnya:disresepected:disrespected:+
+2880:amiSra:unmiximg:unmixing:+
+;scan error
+2903:amfRAla:taties:OK
+;<taties> and <tatties> are both acceptable
+2914:amftavallI:moonseed:OK
+2922:amftAsaNga:anthoriza:OK
+3009:amrAta:plun:plum:+
+;scan error
+3029:amlasAra:esxence:essence
+3034:amlikA:tamarined:tamarind
+3079:ayukcCada:sholaris:scholaris:+
+;scan error
+3094:ayoguqa:chalybeate:OK
+3114:arajas:fiux:flux:+
+;scan vague
+3116:araRi:spoinosa:spinosa:+
+;scan error
+3167:arimeda:fatid:fetid:+
+;scan error
+3180:aruci:disrelish:OK
+3189:aruRAtmaja:nore:more:+
+;scan error
+3191:aruRita:impurpled:OK
 3208:arusikA:aded
-3225:aroDya:unobstructable
-3246:arkavrata:evaporizes
-3264:arca:respectwith
-3307:arTada:munficent
-3317:arTalabDa:covetious
-3351:arTozman:anglice
-3361:ardDagucCa:mecklace
-3367:ardDaDAra:inche
-3394:ardDAvaBedaka:hemicrania
-3409:arpya:consignable
-3450:alakanandA:fiual
-3475:alaNkArahIna:woid
-3478:alaNGana:trangressing
-3496:alale:ibberish
-3557:alpatA:insiginficance
-3678:avacCedaka:predisate
-3789:avamantf:contemptous
-3914:avasTApana:settleing
-3920:avaharaRa:muleting
-3922:avahAra:approximatable
-3944:avAdin:peaceble
-3972:avikala:cousistent
-4050:aviBAjya:partible
-4131:avela:consealment
-4191:avraRa:unhert
-4198:aSaNka:centain
-4218:aSAstra:cripture
-4273:aSmantaka:oxalis
-4302:aSrunAlI:lachrymalis
-4312:aSlezABava:extremeties
-4316:aSvakandikA:floxuosa
-4342:aSvameDa:bave
-4408:azwamUrttiDara:inidividuality
-4435:asaMvfta:convered
-4447:asa:downwith
-4447:asa:abandonwith
-4447:asa:depositwith
-4447:asa:expelwith
-4447:asa:aroundwith
-4447:asa:dividewith
-4447:asa:arrangewith
-4447:asa:worldwith
-4525:asamarpita:elivered
-4583:asADya:nfn
-4623:asimeda:emulcent
-4639:asumat:breating
-4640:asura:prostitude
-4667:asfgDArA:streem
-4711:astyAna:deteriorative
-4746:asTitvac:periosteum
-4754:asTimat:vertebrated
-4763:asTisaMhAra:turnsol
-4826:asrapitta:epistaxis
-4881:ahituRqika:exibiter
-4882:ahidviz:hatewith
-4923:Akarza:hawling
-4939:AkANkzA:significancy
-4955:akASadIpa:lanthorn
-5005:akroSanIya:reprovable
-5034:AKukarRI:eucullata
-5120:Acarita:costomary
-5130:AcAryya:preceptress
-5199:Aqaka:loz
-5199:Aqaka:avds
-5348:Adizwin:penite
-5354:Adeya:leviable
-5371:ADAna:pervious
-5387:ADiBOtika:meterial
-5406:ADyApaka:scriptual
-5412:AnakadunduBi:dhol
-5457:AnuzaNgika:ralation
-5587:AmantraRa:adiew
-5627:Amoda:fragrancy
-5689:Ayurvedin:practicer
-5826:Ali:frined
-5841:Alu:pitcheer
-5866:Avartta:marcasite
-5892:AvAri:mourish
-5995:ASrava:abedient
-6002:ASva:equestrain
-6029:Asakta:confinding
-6086:Aspadana:thobbing
-6096:AsPota:echites
-6124:AhAryya:accessary
-6124:AhAryya:ornamentative
-6161:i:towardswith
-6161:i:prefixedr
-6161:i:implyingwith
-6184:ikzurasa:gugar
-6194:ikzvAlika:fuscum
-6237:iti:intened
-6247:itya:palankeen
-6288:indra:pupreme
-6331:indrARI:negumdo
-6338:indriya:apprihension
-6421:izwApUrtta:relegious
-6540:uktopasaMhAra:compendiousness
-6557:ugraganDa:carraway
-6583:uccandra:moonset
-6605:uccEHSravas:semetimes
-6632:ucCUqA:ahove
-6647:ujjayanI:militery
-6665:uYJita:abanboned
-6674:uqumbara:glomirata
-6686:uta:interogation
-6705:utkalikA:sportfulness
-6765:uttarakuru:nothern
-6777:uttaraDeya:subseqnently
-6784:uttarapracCada:coverlid
-6785:uttaraPAlgunI:lular
-6791:uttaravAdin:replicant
-6817:uttAnapAda:minoris
-6833:uttejana:polishimg
-6834:uttejita:longe
-6851:utTiti:saty
-6878:utpAtavAta:porten
-6905:utsarga:prepartory
-7098:uddIpa:enflamer
-7122:udDava:councelor
-7160:udBrAnta:wayed
-7242:unmada:extacy
-7295:upakrama:atratagem
-7363:upadeSa:fomula
-7367:upadezwavya:adviced
-7371:upadrava:supervenient
-7390:upanAha:ciliary
-7404:upanyAsya:pleded
-7405:upapati:gallent
-7469:uparoDa:blockeding
-7473:upalakzya:atay
-7550:upasfzwa:connencted
-7609:upADi:faminine
-7622:upArata:restorting
-7633:upAsita:worhipped
-7643:upekzA:disdian
-7664:ubja:straightwith
-7680:uma:addressd
-7804:uza:injurewith
-7930:UrdDvAsita:vagetable
-7949:Uha:inferwith
-7949:Uha:intermit
-7979:fc:celibrating
-8270:E:heigh
-8320:EhalOkika:sublunary
-8348:om:rpeserve
-8421:OraBrika:shephered
-8481:kakza:deferent
-8496:kaNkaRa:ribband
-8545:kacCaruhA:lineari
-8545:kacCaruhA:dactilon
-8557:kajjala:ornamentatively
-8557:kajjala:flsh
-8557:kajjala:atratus
-8578:kawa:sepulture
-8589:kawaBaNga:deposure
-8621:kawuka:papper
-8696:kaRika:semoule
-8710:kaRwakArikA:temination
-8758:kaRqUyanaka:ticklace
-8812:kada:rnd
-8869:kanInaka:caruncula
-8895:kandaSUraRa:campanula
-8914:kanyA:socotrine
-8935:kapa:tremblewith
-8974:kapila:phlilosophy
-8993:kapIkacCu:aee
-9040:kamanDa:orthographical
-9048:kamA:rediance
-9067:kambuka:flexuasa
-9096:karawa:oppugner
-9100:karaRa:seu
-9112:karatAla:cymbol
+3225:aroDya:unobstructable:OK
+3246:arkavrata:evaporizes:OK
+3264:arca:respectwith:respect: with
+3307:arTada:munficent:munificent:+
+;scan vague
+3317:arTalabDa:covetious:covetous:+
+;scan error
+;wrong entry <arTalubDa>, corrected headword in text +
+3351:arTozman:anglice:OK
+3361:ardDagucCa:mecklace:necklace:+
+;scan error
+3367:ardDaDAra:inche:inches:+
+;<s> does not appear clearly on scan
+3394:ardDAvaBedaka:hemicrania:OK
+3409:arpya:consignable:OK
+3450:alakanandA:fiual:final:+
+;scan error
+3475:alaNkArahIna:woid:void:+
+;scan error
+3478:alaNGana:trangressing:transgressing:+
+3496:alale:ibberish:gibberish:+
+;scan error
+3557:alpatA:insiginficance:insignificance:+
+3678:avacCedaka:predisate:predicate:+
+;scan vague
+3789:avamantf:contemptous:contemptuous:+
+3914:avasTApana:settleing:settling:+
+;scan error
+3920:avaharaRa:muleting:OK
+;unsure
+3922:avahAra:approximatable:OK
+;acceptable usage
+3944:avAdin:peaceble:peaceable:+
+;scan error
+3972:avikala:cousistent:consistent:+
+4050:aviBAjya:partible:OK
+4131:avela:consealment:concealment:+
+;scan error
+4191:avraRa:unhert:unhurt:+
+;scan error
+4198:aSaNka:centain:certain:+
+;scan vague
+4218:aSAstra:cripture:scripture:+
+;scan error
+4273:aSmantaka:oxalis:OK
+4302:aSrunAlI:lachrymalis:OK
+4312:aSlezABava:extremeties:extremities:+
+;scan error
+4316:aSvakandikA:floxuosa:flexuosa:+
+;scan error
+4342:aSvameDa:bave:have:+
+;scan error
+4408:azwamUrttiDara:inidividuality:individuality:+
+;scan error
+4435:asaMvfta:convered:covered:+
+4447:asa:downwith:down: with
+;OK in text
+4447:asa:abandonwith:abandon: with
+;OK in text
+4447:asa:depositwith:deposit: with
+;OK in text
+4447:asa:expelwith:expel: with
+;OK in text
+4447:asa:aroundwith:around: with
+;OK in text
+4447:asa:dividewith:divide: with
+;OK with text
+4447:asa:arrangewith:arrange: with
+;OK with text
+4447:asa:worldwith:world: with
+;OK with text
+4525:asamarpita:elivered:undelivered:+
+;slightly bad scan
+4583:asADya:nfn:mfn:+
+;scan error
+4623:asimeda:emulcent:demulcent:+
+;scan error
+;another error in this definition
+;<decoe-> changed to <decoc->
+4639:asumat:breating:breathing:+
+4640:asura:prostitude:prostitute:+
+;scan error
+4667:asfgDArA:streem:stream:+
+;scan error
+4711:astyAna:deteriorative:OK
+4746:asTitvac:periosteum:OK
+4754:asTimat:vertebrated:OK
+4763:asTisaMhAra:turnsol:turnsole:+
+;scan error
+4826:asrapitta:epistaxis:OK
+4881:ahituRqika:exibiter:exhibiter:+
+;scan error
+4882:ahidviz:hatewith:hate with
+;OK in the text
+4923:Akarza:hawling:OK
+4939:AkANkzA:significancy:OK
+4955:akASadIpa:lanthorn:OK
+5005:akroSanIya:reprovable:OK
+5034:AKukarRI:eucullata:cucullata:+
+5120:Acarita:costomary:customary:+
+;scan error
+5130:AcAryya:preceptress:OK
+5199:Aqaka:loz:11 oz.:+
+;scan error
+5199:Aqaka:avds:OK
+5348:Adizwin:penite:OK
+5354:Adeya:leviable:OK
+5371:ADAna:pervious:OK
+5387:ADiBOtika:meterial:material:+
+5406:ADyApaka:scriptual:scriptural:+
+;scan error
+5412:AnakadunduBi:dhol:OK
+;scan error, scan shows <d'hol>
+;text entry OK
+5457:AnuzaNgika:ralation:relation:+
+;scan error
+5587:AmantraRa:adiew:adieu:+
+;scan error
+5627:Amoda:fragrancy:OK
+5689:Ayurvedin:practicer:OK
+5826:Ali:frined:friend:+
+;scan error
+5841:Alu:pitcheer:pitcher:+
+5866:Avartta:marcasite:OK
+5892:AvAri:mourish:nourish:+
+;scan error
+5995:ASrava:abedient:obedient:+
+;scan error
+6002:ASva:equestrain:equestrian:+
+;scan error
+6029:Asakta:confinding:confiding:+
+;scan error
+6086:Aspadana:thobbing:throbbing:+
+;scan error
+6096:AsPota:echites:OK
+6124:AhAryya:accessary:accessory:+
+;scan error
+6124:AhAryya:ornamentative:OK
+6161:i:towardswith:towards: with
+;text entry is OK
+;scan OK
+6161:i:prefixedr:prefixed r.
+;text entry OK
+;scan OK
+6161:i:implyingwith:implying with
+;text entry OK
+;scan OK
+6184:ikzurasa:gugar:sugar:+
+;scan error
+6194:ikzvAlika:fuscum:OK
+6237:iti:intened:intended:+
+;scan error
+;another error in same definition
+;<Somthing> changed to <Something> in text +
+;this is a scan error
+6247:itya:palankeen:OK
+;alternate spelling to <palanquin>
+6288:indra:pupreme:supreme:+
+;scan error
+6331:indrARI:negumdo:negunda:+
+;scan error
+6338:indriya:apprihension:apprehension:+
+;scan error
+6421:izwApUrtta:relegious:religious:+
+;scan error
+6540:uktopasaMhAra:compendiousness:OK
+6557:ugraganDa:carraway:caraway:+
+;scan error
+6583:uccandra:moonset:OK
+6605:uccEHSravas:semetimes:sometimes:+
+;scan error
+6632:ucCUqA:ahove:above:+
+;scan error
+6647:ujjayanI:militery:military
+;scan error
+6665:uYJita:abanboned:abandoned:+
+;scan error
+6674:uqumbara:glomirata:glomerata:+
+;scan error
+6686:uta:interogation:interrogation:+
+;scan error
+6705:utkalikA:sportfulness:OK
+6765:uttarakuru:nothern:northern:+
+;scan error
+6777:uttaraDeya:subseqnently:subsequently:+
+;scan error
+6784:uttarapracCada:coverlid:OK
+6785:uttaraPAlgunI:lular:lunar:+
+;scan error
+6791:uttaravAdin:replicant:OK
+6817:uttAnapAda:minoris:OK
+6833:uttejana:polishimg:polishing:+
+;scan error
+6834:uttejita:longe:OK
+;acceptable spelling
+6851:utTiti:saty:stay:+
+;scan error
+6878:utpAtavAta:porten:portent:+
+;scan error
+6905:utsarga:prepartory:preparatory:+
+;scan error
+7098:uddIpa:enflamer:OK
+7122:udDava:councelor:counsellor:+
+;scan error
+7160:udBrAnta:wayed:waved:+
+;scan error
+7242:unmada:extacy:ecstacy:+
+;scan error
+;I did not find <extacy> as an alternate spelling
+7295:upakrama:atratagem:stratagem:+
+;scan error
+7363:upadeSa:fomula:formula:+
+;scan error
+7367:upadezwavya:adviced:advised:+
+;scan error
+7371:upadrava:supervenient:OK
+7390:upanAha:ciliary:OK
+7404:upanyAsya:pleded:pledged:+
+;scan error
+;uncertain
+7405:upapati:gallent:gallant:+
+;scan error
+7469:uparoDa:blockeding:blockading:+
+;scan error
+7473:upalakzya:atay:stay:+
+;scan error
+;uncertain
+7550:upasfzwa:connencted:connected:+
+;scan error
+7609:upADi:faminine:feminine:+
+;scan error
+7622:upArata:restorting:resorting:+
+;scan error
+7633:upAsita:worhipped:worshipped:+
+;scan error
+7643:upekzA:disdian:disdain:+
+;scan error
+7664:ubja:straightwith:straight: with
+;OK in scan
+;OK in text entry
+7680:uma:addressd:addressed:+
+;scan error
+7804:uza:injurewith:injure: with
+;OK in scan
+;OK in text entry
+7930:UrdDvAsita:vagetable:vegetable:+
+;scan error
+7949:Uha:inferwith:infer: with
+;OK in scan
+;OK in text entry
+7949:Uha:intermit:OK
+7979:fc:celibrating:celebrating:+
+;scan error
+8270:E:heigh:OK
+8320:EhalOkika:sublunary:OK
+8348:om:rpeserve:preserve:+
+8421:OraBrika:shephered:shepherd:+
+;scan error
+8481:kakza:deferent:OK
+8496:kaNkaRa:ribband:OK
+8545:kacCaruhA:lineari:linearis:+
+;scan error
+;last letter was not visible on scan
+8545:kacCaruhA:dactilon:OK
+8557:kajjala:ornamentatively:OK
+8557:kajjala:flsh:fish:+
+;scan error
+8557:kajjala:atratus:OK
+8578:kawa:sepulture:OK
+8589:kawaBaNga:deposure:OK
+8621:kawuka:papper:pepper:+
+;scan error
+8696:kaRika:semoule:OK
+8710:kaRwakArikA:temination:termination:+
+8758:kaRqUyanaka:ticklace:OK
+8812:kada:rnd:and:+
+8869:kanInaka:caruncula:OK
+8895:kandaSUraRa:campanula:OK
+8914:kanyA:socotrine:OK
+8935:kapa:tremblewith:tremble: with
+;OK in scan
+;OK in text entry
+8974:kapila:phlilosophy:philosophy:+
+;scan error
+8993:kapIkacCu:aee:see:+
+;scan error
+9040:kamanDa:orthographical:OK
+9048:kamA:rediance:radiance:+
+;scan error
+9067:kambuka:flexuasa:flexuosa:+
+;scan error
+9096:karawa:oppugner:OK
+9100:karaRa:seu:OK
+9112:karatAla:cymbol:cymbal:+
+;scan error
 9120:karapatravat:spatha
 9140:karamardda:pulked
 9154:karavIra:cemetary
