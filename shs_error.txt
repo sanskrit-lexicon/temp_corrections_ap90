@@ -1109,240 +1109,432 @@ correct in the text document
 ;different spellings of this word seem to be acceptable
 17455:tintiqa:sance:sauce:+
 ;scan vague
-17466:timi:subsitituted
-17485:tiroDAna:whithholds
-17520:tilApatyA:offsping
-17522:tilottamA:beatiful
-17525:tilya:sesamun
-17551:tIkzRAgni:despepsia
-17559:tIrita:noninfliction
-17563:tIrTa:vatar
-17569:tIrTasevin:hivea
-17575:tu:explective
-17606:tuRqila:harshy
-17666:turuzka:amoke
-17671:tulayitvA:weith
-17680:tulAparIkzA:weigat
-17694:tulyabala:trength
-17709:tuzArakaRa:dorp
-17738:tUr:semevowel
-17754:tUlikA:matrass
-17766:tfQa:enjured
-17777:tfRatA:gramineousness
-17782:tfRamaRi:aparently
-17793:tfRAgni:wraped
-17799:tfROzaDa:luka
-17805:tftIyAkfta:plaughed
-17866:tEttira:fracoline
-17900:toda:teaze
-17901:todana:afliction
-17982:trayI:substitated
-17998:trARa:substiluted
-18213:tryaYjana:collyria
-18505:dantaSARa:chebulic
-18510:dantaharza:intolerence
-18517:dantikA:rerd
-18637:dalAQaka:sirsiha
-18771:dAtyOha:chagned
-18817:dAyaviBAga:herit
-18888:dAsadAsI:slaye
-18889:dAsapUra:srom
-18898:dAhaka:inflamatory
-18898:dAhaka:zeylancia
-18904:dAhya:inflamable
-18928:diti:oppossed
-18954:dinaduHKita:necturnal
-19060:dIpapuzpa:enkindling
-19127:dIrGamUla:fruitscens
-19127:dIrGamUla:sarum
-19183:duHKAnvita:distresed
-19184:duHKArtta:disstressed
-19199:duHsTa:sitnated
-19221:duRquBa:vene
-19221:duRquBa:mous
-19310:durdfzwa:illexamined
-19323:durbala:circomcised
-19333:durmara:difficufy
-19342:durvaca:inproperly
-19367:duScezwita:besigining
-19422:dUtaGnI:resmbling
-19425:dUtya:messonger
-19483:dfgviza:orther
-19535:dfSAkANkzya:nelumbium
-19565:deva:kayestha
-19565:deva:corinculata
-19571:devakirI:pesonifications
-19635:devabrahman:dimigods
-19682:devasva:aplicable
-19701:devf:perviously
-19770:dEvadurvipAka:unpropitiousness
-19784:dEvika:deific
-19789:dEzwika:predestinarian
-19790:dEzwikatA:predestinarianism
-19801:doraka:rute
-19866:dyAvApfTivI:carth
-19907:dyotayamAna:irradia
-19943:dravyasaMskAra:perfectioning
-20069:dvAdaSAsra:dodecagonal
-20101:dvija:olebanum
-20116:dvijasevaka:fiast
-20137:dvitIyABA:scitamineous
-20157:dvipada:domons
-20219:dvIpa:henco
-20219:dvIpa:ecean
-20243:dvEDIBAva:dessension
-20260:dvyaRuka:melocule
-20349:Danus:piyal
-20400:Darmma:innoxiousness
-20448:DarmalakzaRa:ethicks
-20507:DA:causalwith
-20520:DAtumAkzika:sulphurate
-20525:DAtuvErin:metalic
-20560:DAnyAmna:sonr
-20565:DAman:coutain
-20573:DAra:sprinling
-20575:DAraRa:keping
-20588:DArAvani:soud
-20640:DIrodAtta:benovolence
-20721:DUrtta:gamestar
-20851:Dvajin:armiger
-20862:Dvanita:fignrative
-20931:nagaRA:halieacabum
-21015:nadeyo:herbacca
-21039:nandika:mahogny
+17466:timi:subsitituted:substituted:+
+;scan error
+17485:tiroDAna:whithholds:withholds:+
+;scan error
+17520:tilApatyA:offsping:offspring:+
+;scan error
+;the error seems to be in scan but perhaps it could be because the page was folded during scan
+17522:tilottamA:beatiful:beautiful:+
+;scan error
+17525:tilya:sesamun:sesamum:+
+;scan error
+17551:tIkzRAgni:despepsia:dyspepsia:+
+;scan error
+17559:tIrita:noninfliction:non-infliction:+
+;scan error
+17563:tIrTa:vatar:Avatar:+
+;scan error
+17569:tIrTasevin:hivea:nivea:+
+17575:tu:explective:expletive:+
+;scan error
+17606:tuRqila:harshy:harshly:+
+;scan error
+17666:turuzka:amoke:smoke:+
+;scan error
+17671:tulayitvA:weith:weigh:+
+;scan error
+17680:tulAparIkzA:weigat:weight:+
+;scan error
+17694:tulyabala:trength:strength:+
+;scan error
+17709:tuzArakaRa:dorp:drop:+
+;scan error
+17738:tUr:semevowel:semivowel:+
+;scan error
+17754:tUlikA:matrass:matress:+
+;scan error
+17766:tfQa:enjured:injured:+
+;scan error
+17777:tfRatA:gramineousness:OK
+17782:tfRamaRi:aparently:apparently:+
+;scan error
+17793:tfRAgni:wraped:wrapped:+
+;scan error
+17799:tfROzaDa:luka:OK
+;unsure
+17805:tftIyAkfta:plaughed:ploughed:+
+;scan error
+17866:tEttira:fracoline:francoline:+
+;scan error
+17900:toda:teaze:OK
+;acceptable variant of <tease>
+17901:todana:afliction:affliction:+
+;scan error
+17982:trayI:substitated:substituted:+
+;scan error
+17998:trARa:substiluted:substituted:+
+;scan error
+18213:tryaYjana:collyria:OK
+18505:dantaSARa:chebulic:OK
+18510:dantaharza:intolerence:intolerance:+
+;scan error
+18517:dantikA:rerd:read:+
+;scan error
+;recheck
+18637:dalAQaka:sirsiha:sirisha:+
+;scan error
+18771:dAtyOha:chagned:changed:+
+;scan error
+18817:dAyaviBAga:herit:heritage:+
+;scan error
+18888:dAsadAsI:slaye:slave:+
+;scan error
+18889:dAsapUra:srom:from:+
+;scan error
+18898:dAhaka:inflamatory:inflammatory:+
+;scan error
+18898:dAhaka:zeylancia:OK
+18904:dAhya:inflamable:inflammable:+
+;scan error
+18928:diti:oppossed:opposer:+
+;scan error
+;<oppossed> is scan error. <opposed> would be the right spelling
+;in this context I think it should be <opposer>
+18954:dinaduHKita:necturnal:nocturnal:+
+;scan error
+19060:dIpapuzpa:enkindling:OK
+19127:dIrGamUla:fruitscens:frutescens:+
+;scan error
+19127:dIrGamUla:sarum:Hedysarum:+
+;scan error
+19183:duHKAnvita:distresed:distressed:+
+;scan error
+19184:duHKArtta:disstressed:distressed:+
+;scan error
+19199:duHsTa:sitnated:situated:+
+;scan vague
+19221:duRquBa:vene:vene-:+
+;scan error
+;word broken up due to line break
+19221:duRquBa:mous:OK
+;2nd half of the word <venemous> broken up due to line break
+19310:durdfzwa:illexamined:ill-examined:+
+;scan error
+19323:durbala:circomcised:circumcised:+
+;scan error
+19333:durmara:difficufy:difficulty:+
+;scan error
+19342:durvaca:inproperly::improperly:+
+;scan error
+19367:duScezwita:besigining:besieging:+
+;scan error, this is the best alternate
+19422:dUtaGnI:resmbling:resembling:+
+;scan error
+19425:dUtya:messonger:messenger:+
+;scan error
+19483:dfgviza:orther:other:+
+;scan error
+19535:dfSAkANkzya:nelumbium:OK
+19565:deva:kayestha:OK
+;Indian word
+19565:deva:corinculata:corniculata:+
+;scan error
+19571:devakirI:pesonifications:personifications:+
+;scan error
+19635:devabrahman:dimigods:demigods:+
+;scan error
+19682:devasva:aplicable:applicable:+
+;scan error
+19701:devf:perviously:previously:+
+;scan error
+19770:dEvadurvipAka:unpropitiousness:OK
+19784:dEvika:deific:OK
+19789:dEzwika:predestinarian:OK
+19790:dEzwikatA:predestinarianism:OK
+19801:doraka:rute:lute:+
+;scan error
+19866:dyAvApfTivI:carth:earth:+
+;scan error
+19907:dyotayamAna:irradia:irradiating:+
+;scan error
+19943:dravyasaMskAra:perfectioning:OK
+;acceptable
+20069:dvAdaSAsra:dodecagonal:OK
+20101:dvija:olebanum:OK
+20116:dvijasevaka:fiast:first:+
+;scan error
+20137:dvitIyABA:scitamineous:OK
+20157:dvipada:domons:demons:+
+;scan error
+20219:dvIpa:henco:hence:+
+;scan error
+20219:dvIpa:ecean:ocean:+
+;scan error
+20243:dvEDIBAva:dessension:dissension:+
+;scan error
+20260:dvyaRuka:melocule:molecule:+
+;scan error
+20349:Danus:piyal:OK
+20400:Darmma:innoxiousness:OK
+20448:DarmalakzaRa:ethicks:ethics:+
+;scan error
+20507:DA:causalwith:causal with
+;OK in scan
+;OK in text entry
+20520:DAtumAkzika:sulphurate:OK
+20525:DAtuvErin:metalic:metallic:+
+;scan error
+20560:DAnyAmna:sonr:sour:+
+;scan error
+;other errors #amna# corrected to #amla#
+;headword error <k1>DAnyAmna<k2>DAnyAmna changed to <k1>DAnyAmla<k2>DAnyAmla in text
+20565:DAman:coutain:contain:+
+;scan error
+20573:DAra:sprinling:sprinkling:+
+;scan error
+20575:DAraRa:keping:keeping:+
+;scan error
+20588:DArAvani:soud:sound:+
+;scan error
+20640:DIrodAtta:benovolence:benevolence:+
+;scan error
+20721:DUrtta:gamestar:gamester:+
+20851:Dvajin:armiger:OK
+20862:Dvanita:fignrative:figurative:+
+;scan error
+20931:nagaRA:halieacabum:halicacabum:+
+21015:nadeyo:herbacca:herbacea:+
+;scan error
+;another error in headword
+;<nadeyo> corrected to <nadeyI> in text
+21039:nandika:mahogny:mahogany:+
+;scan error
 21054:naptf:proping
-21117:nayanopAnta:canthus
-21122:nayasidDi:ony
-21160:narttanapriya:danoing
-21163:narddawaka:letteres
-21251:naSitf:augmet
-21268:nastita:nozzled
-21290:nAga:stronomical
-21312:nAgara:beautitude
-21356:nAqi:flstula
-21382:nATahAra:carring
-21431:nAyaka:gooddess
-21459:nAlika:saflower
-21466:nAlIvraRa:sinous
-21470:nASa:destrution
-21548:niHsneha:unfeelling
-21569:nikuYcitra:ourved
-21572:nikumBilA:ceylon
-21581:nikoca:hexapotalum
-21589:nikzeptf:pledger
-21595:nigaRa:prefied
-21596:nigada:discource
-21600:nigama:itinerent
-21675:nidAGa:june
-21734:nipatyA:plashy
-21805:niyama:observanace
-21845:niranvaya:beloging
-21853:niraya:beyound
-21911:nirIhatA:alsewith
-22079:nirvvA:vacnum
-22085:nirvvA:extingnished
-22112:nirvftta:completly
-22129:nirheti:weapen
-22133:nilAyitA:domesticality
-22203:niSAdi:beginnig
-22255:nizaDa:mountanious
-22271:nizka:othertimes
-22320:nizpatti:termimation
-22431:nIranDra:imperforate
-22441:nIlaka:picta
-22494:nIvi:lossed
-22583:nemicakra:decended
-22591:nEkawya:vicinage
-22635:nEzWika:verced
-22651:nyakza:mahishatrina
-22670:nyAyasAriRI:propiety
-22718:pakzapAta:condered
-22730:pakzAnta:fornight
-22766:paNkaSukti:cokle
-22814:paYcacIra:legistator
-22833:paYcan:spead
-22834:paYcanaKa:lixard
-22840:paYcapallava:vix
-22861:paYcamUla:logopodioides
-22861:paYcamUla:deminutive
-22900:paYcezman:disgestive
-22981:paRitavya:negociable
-23039:pattaNga:apears
-23063:patrapASyA:goldleaf
-23084:patrANga:sappon
-23090:patrAvalI:youg
-23101:paTikasantati:cafilch
-23144:padma:treasurs
-23161:padmapuzpa:corymbosa
-23222:payoDara:scolius
-23230:payovrata:ovservance
-23317:paramAdvEta:unitarianism
-23335:paramparIRa:desent
-23412:parAmarSa:supre
-23412:parAmarSa:macy
-23416:parAyaRa:attched
-23471:parikriyA:intrenching
-23496:parigfhIta:counsented
-23512:parivAryya:servel
-23520:paricCitti:definion
-23756:pariSIlana:persuit
-23778:parizkf:initatory
-23779:parizkftaBUmi:untensils
-23871:paruzokti:busive
-23898:parozRI:cookroach
-23965:paryyasyat:oversetting
-23970:paryyAcAnta:rince
-24059:paliknI:greyheaded
-24073:pallavAstra:bloosom
-24081:pava:fication
-24115:paSutA:beastiality
-24280:pARqarapuzpikA:phrynium
-24381:pAdapUraRa:espictive
-24405:pAdaharza:crural
-24470:pApacaka:cookes
-24573:pArASari:patronynic
-24612:pArIkzita:gavat
-24654:pArzRi:figuralively
-24680:pAvana:expurgatory
-24688:pASa:compoitionwith
-24702:pASupAlya:grazier
-24729:piNgala:treassures
-24746:picumanda:azadirakta
-24766:piYjara:seee
-24787:piRqa:flor
-24787:piRqa:plen
-24816:piRqAra:vikankata
-24816:piRqAra:mudiflora
-24827:piRqItaka:marua
-24831:piRqISUra:quean
-24859:pitfpAtra:obsequal
-24911:pipatizA:inclinatien
-24964:pizwapacana:seether
-24970:pizwamaya:transformative
-25040:pItasPawika:precipus
-25054:pInasa:schneiderian
-25066:pIlu:persica
-25070:pIlumUla:shatamuli
-25077:puMnAga:mesua
-25110:puwa:privites
-25133:puRya:auspitious
-25179:puttrajAta:whoom
-25199:puttrikA:pappus
-25264:pura:berleria
-25309:purARa:karsha
-25447:puzkarakarRikA:mutabelis
-25525:puzpaSakawI:occasian
-25533:puzpasAyaka:gode
-25557:puzpitAgrA:pyrrhic
-25655:pUra:entertwine
-25685:pUrvva:eitherwith
-25717:pUrvvamImAMsA:sequal
-25820:pfzadaSva:considerded
-25872:peya:nise
-25887:peSI:cenception
-25912:pEttika:biliary
-25919:pESAca:dramatical
-25927:powagala:spontanium
+21117:nayanopAnta:canthus:OK
+21122:nayasidDi:ony:one:+
+;this is an estimation seeing the context
+21160:narttanapriya:danoing:dancing:+
+;scan vague
+21163:narddawaka:letteres:letters:+
+;scan error
+21251:naSitf:augmet:augment:+
+;scan error
+21268:nastita:nozzled:OK
+21290:nAga:stronomical:astronomical:+
+;scan error
+21312:nAgara:beautitude:beatitude:+
+;scan error
+21356:nAqi:flstula:fistula:+
+;scan error
+21382:nATahAra:carring:carrying:+
+;scan error
+21431:nAyaka:gooddess:goddess:+
+;scan error
+21459:nAlika:saflower:safflower:+
+;scan error
+21466:nAlIvraRa:sinous:sinus:+
+;scan error
+21470:nASa:destrution:destruction:+
+;scan error
+21548:niHsneha:unfeelling:unfeeling:+
+;scan error
+21569:nikuYcitra:ourved:curved:+
+;scan unclear
+21572:nikumBilA:ceylon:OK
+21581:nikoca:hexapotalum:hexapetalum:+
+;scan error
+21589:nikzeptf:pledger:OK
+21595:nigaRa:prefied:prefixed:+
+;scan error
+21596:nigada:discource:discourse:+
+;scan error
+21600:nigama:itinerent:itinerant:+
+;scan error
+21675:nidAGa:june:June:+
+;scan error for capital first letter
+21734:nipatyA:plashy:OK
+21805:niyama:observanace:observance:+
+;scan error
+21845:niranvaya:beloging:belonging:+
+;scan error
+21853:niraya:beyound:beyond:+
+;scan error
+21911:nirIhatA:alsewith:also with:+
+;scan error
+22079:nirvvA:vacnum:vacuum:+
+;scan error
+22085:nirvvA:extingnished:extinguished:+
+;scan error
+22112:nirvftta:completly:completely:+
+;scan error
+22129:nirheti:weapen:weapon:+
+;scan error
+22133:nilAyitA:domesticality:OK
+;same as scan but I am unsure if this word is legit
+22203:niSAdi:beginnig:beginning:+
+;scan error
+22255:nizaDa:mountanious:mountainous:+
+;scan error
+22271:nizka:othertimes:other times:+
+;scan error
+22320:nizpatti:termimation:termination:+
+;scan error
+22431:nIranDra:imperforate:OK
+22441:nIlaka:picta:OK
+22494:nIvi:lossed:OK
+;uncertain
+22583:nemicakra:decended:descended:+
+;scan error
+22591:nEkawya:vicinage:OK
+;outdated usage but acceptable
+22635:nEzWika:verced:versed:+
+;scan error
+;another scan error <Beloning> changed to <Belonging>
+22651:nyakza:mahishatrina:OK
+;Indian word
+22670:nyAyasAriRI:propiety:propriety:+
+;scan error
+22718:pakzapAta:condered:considered:+
+;scan error
+22730:pakzAnta:fornight:fortnight:+
+;scan error
+22766:paNkaSukti:cokle:cockle:+
+;scan error
+22814:paYcacIra:legistator:legislator:+
+;scan error
+22833:paYcan:spead:spread:+
+;scan error
+22834:paYcanaKa:lixard:lizard:+
+;scan error
+22840:paYcapallava:vix:six:+
+;scan error
+22861:paYcamUla:logopodioides:OK
+22861:paYcamUla:deminutive:diminutive:+
+;scan error
+22900:paYcezman:disgestive:digestive:+
+;scan error
+22981:paRitavya:negociable:negotiable:+
+;scan error
+23039:pattaNga:apears:appears:+
+;scan error
+23063:patrapASyA:goldleaf:gold leaf:+
+;scan error
+23084:patrANga:sappon:sappan:+
+;scan error
+23090:patrAvalI:youg:young:+
+;scan error
+23101:paTikasantati:cafilch:OK
+;uncertain
+23144:padma:treasurs:treasures:+
+;scan error
+23161:padmapuzpa:corymbosa:OK
+23222:payoDara:scolius:OK
+23230:payovrata:ovservance:observance:+
+;scan error
+23317:paramAdvEta:unitarianism:OK
+23335:paramparIRa:desent:descent:+
+;scan error
+23412:parAmarSa:supre:supre-
+;scan error
+;missing hyphen in scan
+23412:parAmarSa:macy:OK
+;second half of word <supremacy>
+23416:parAyaRa:attched:attached:+
+;scan error
+23471:parikriyA:intrenching:OK
+23496:parigfhIta:counsented:consented:+
+23512:parivAryya:servel:served:+
+;scan vague
+23520:paricCitti:definion:definition:+
+;scan vague
+23756:pariSIlana:persuit:pursuit:+
+;scan error
+23778:parizkf:initatory:initiatory:+
+;scan error
+23779:parizkftaBUmi:untensils:utensils:+
+23871:paruzokti:busive:Abusive:+
+;scan error
+23898:parozRI:cookroach:cockroach:+
+;scan error
+23965:paryyasyat:oversetting:OK
+23970:paryyAcAnta:rince:OK
+24059:paliknI:greyheaded:OK
+24073:pallavAstra:bloosom:blossom:+
+;scan error
+24081:pava:fication:OK
+;second half of <purification>
+;another error <puri.> corrected to <puri->
+24115:paSutA:beastiality:bestiality:+
+;scan error
+24280:pARqarapuzpikA:phrynium:OK
+24381:pAdapUraRa:espictive:expletive:+
+;scan error
+24405:pAdaharza:crural:OK
+24470:pApacaka:cookes:cooks:+
+;scan error
+24573:pArASari:patronynic:patronymic:+
+;scan error
+24612:pArIkzita:gavat:OK
+;second half of word <Bhāgavat>
+;another error <Sri-Bhā> changed to <Sri-Bhā->
+24654:pArzRi:figuralively:figuratively:+
+;scan error
+24680:pAvana:expurgatory:OK
+24688:pASa:compoitionwith:composition with:+
+;scan error
+24702:pASupAlya:grazier:OK
+24729:piNgala:treassures:treasures:+
+;scan error
+24746:picumanda:azadirakta:azadirachta:+
+;scan error
+;I have changed the spelling to <azadirachta> as that is more widely found
+24766:piYjara:seee:see:+
+;scan error
+24787:piRqa:flor:OK
+24787:piRqa:plen:OK
+24816:piRqAra:vikankata:OK
+24816:piRqAra:mudiflora:nudiflora:+
+;scan error
+24827:piRqItaka:marua:OK
+24831:piRqISUra:quean:queen:+
+;scan error
+24859:pitfpAtra:obsequal:obsequial:+
+;scan error
+24911:pipatizA:inclinatien:inclination:+
+;scan error
+24964:pizwapacana:seether:OK
+24970:pizwamaya:transformative:OK
+25040:pItasPawika:precipus:precious:+
+25054:pInasa:schneiderian:OK
+25066:pIlu:persica:OK
+25070:pIlumUla:shatamuli:OK
+25077:puMnAga:mesua:OK
+25110:puwa:privites:privities:+
+;scan error
+25133:puRya:auspitious:auspicious:+
+;scan error
+25179:puttrajAta:whoom:whom:+
+;scan error
+25199:puttrikA:pappus:OK
+25264:pura:berleria:barleria:+
+;scan error
+25309:purARa:karsha:OK
+25447:puzkarakarRikA:mutabelis:OK
+25525:puzpaSakawI:occasian:occasion:+
+;scan error
+25533:puzpasAyaka:gode:god:+
+;scan error
+25557:puzpitAgrA:pyrrhic:OK
+25655:pUra:entertwine:intertwine:+
+;scan error
+25685:pUrvva:eitherwith:either with:+
+;OK in scan
+;OK in text entry
+25717:pUrvvamImAMsA:sequal:sequel:+
+;scan error
+25820:pfzadaSva:considerded:considered:+
+;scan error
+25872:peya:nise:Anise:+
+;scan error
+25887:peSI:cenception:conception:+
+;scan error
+25912:pEttika:biliary:OK
+25919:pESAca:dramatical:OK
+25927:powagala:spontanium:OK
+;I have left this spelling as I found it in some articles
+;but commonly used is <spontaneum>
 25939:potavAha:towman
 26012:pOrvvAparyya:subsequence
 26049:prakaraRa:prakarana
