@@ -1,0 +1,8 @@
+; Lines starting with a semicolon are comments
+; other lines should be slp1 transliteration of the items
+; in Apte.S2H-.Names.of.works.or.authors.pdf
+; Each line should have two parts, separated by a colon;
+; First part is the abbreviation, second part is the 'expansion'
+; extra spaces around the ':' are optional
+a. p.: agni purARa
+a. S. : anyapadeSa Sataka
