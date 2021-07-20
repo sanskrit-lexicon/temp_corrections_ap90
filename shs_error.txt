@@ -660,7 +660,8 @@ correct in the text document
 11747:kopavega:impetuousity:OK
 11758:kora:amphiarthrosis:OK
 11767:kolapucCa:hogtailed:OK
-11787:koza:sovel:OK
+11787:koza:sovel:soul:+
+;scan error
 11871:kOlatTIna:bifloros:OK
 11891:kOSika:femine:feminine:+
 ;scan error
@@ -668,9 +669,8 @@ correct in the text document
 ;scan error
 11900:kOSeya:trowsers:OK
 ;acceptable obsolete spelling
-11911:knaTa:sr:1sr
-;text entry OK
-;scan is slightly unclear
+11911:knaTa:sr:1st:+
+;scan error
 11919:krakacacCada:ordoratissimus:odoratissimus:+
 ;scan error
 11923:krakara:perdix:OK
@@ -761,7 +761,8 @@ correct in the text document
 13362:gala:subgenus:OK
 13372:galavrata:thoat:throat:+
 ;scan error
-13398:gavAkzajAla:jealousie:OK
+13398:gavAkzajAla:jealousie:jalousie:+
+;scan error
 13398:gavAkzajAla:trellice:OK
 13418:gaha:cav:cave:+
 ;scan error
@@ -920,7 +921,8 @@ correct in the text document
 ;scan error
 15126:cittaviplava:afflic:afflic-:+
 ;scan error
-15147:citra:surprize:OK
+15147:citra:surprize:surprise:+
+;scan error
 ;not commonly used spelling
 15156:citrakUwa:excile:exile:+
 ;scan error
@@ -1082,7 +1084,7 @@ correct in the text document
 ;scan vague due to fold on page
 17090:tarakzu:anoy:annoy:+
 ;scan error
-17130:taruRa:anthes:Achyrananthes:+
+17130:taruRa:anthes:Achyranthes:+
 ;scan error
 17198:talAtala:downadown:down-adown:+
 ;scan error
@@ -1143,7 +1145,7 @@ correct in the text document
 ;scan error
 17738:tUr:semevowel:semivowel:+
 ;scan error
-17754:tUlikA:matrass:matress:+
+17754:tUlikA:matrass:mattress:+
 ;scan error
 17766:tfQa:enjured:injured:+
 ;scan error
@@ -1301,10 +1303,11 @@ correct in the text document
 ;<nadeyo> corrected to <nadeyI> in text
 21039:nandika:mahogny:mahogany:+
 ;scan error
-21054:naptf:proping
+21054:naptf:proping:propping:+
+;scan error
 21117:nayanopAnta:canthus:OK
-21122:nayasidDi:ony:one:+
-;this is an estimation seeing the context
+21122:nayasidDi:ony:any:+
+;scan error
 21160:narttanapriya:danoing:dancing:+
 ;scan vague
 21163:narddawaka:letteres:letters:+
@@ -1373,8 +1376,8 @@ correct in the text document
 ;scan error
 22431:nIranDra:imperforate:OK
 22441:nIlaka:picta:OK
-22494:nIvi:lossed:OK
-;uncertain
+22494:nIvi:lossed:loosed:+
+;scan error
 22583:nemicakra:decended:descended:+
 ;scan error
 22591:nEkawya:vicinage:OK
@@ -1415,8 +1418,8 @@ correct in the text document
 ;scan error
 23090:patrAvalI:youg:young:+
 ;scan error
-23101:paTikasantati:cafilch:OK
-;uncertain
+23101:paTikasantati:cafilch:cafileh:+
+;scan error
 23144:padma:treasurs:treasures:+
 ;scan error
 23161:padmapuzpa:corymbosa:OK
@@ -1631,7 +1634,8 @@ correct in the text document
 ;scan error
 27584:prasUtija:coporeal:corporeal:+
 ;scan error
-27609:prastAvayajYa:interlocutar
+27609:prastAvayajYa:interlocutar:interlocutor:+
+;scan error
 27620:prasTAna:outcasted:OK
 27649:prasvinna:spiring:Perspiring:+
 ;scan error
@@ -1728,7 +1732,8 @@ correct in the text document
 30082:maW:regreat:regret:+
 ;scan error
 30090:maRi:pracious
-30103:maRidvIpa:nector
+30103:maRidvIpa:nector:nectar:+
+;scan error
 30129:maRqala:mandel:precious:+
 ;scan error
 30143:maRqA:foenum:OK
@@ -1757,8 +1762,8 @@ correct in the text document
 30468:manasvitA:expection:expectation:+
 ;scan error
 30610:manmana:libidinosum:OK
-30637:mayUracUqA:crist:OK
-;abbreviation
+30637:mayUracUqA:crist:crest:+
+;scan error
 30748:malaya:peninsnla:peninsula:+
 ;scan error
 30775:malla:hemicranium
@@ -2110,8 +2115,7 @@ correct in the text document
 ;scan error
 39478:Sabda:yikas:Naiyāyikas:+
 ;scan error
-39498:SabdaSleza:equinoque:equinoxe:+
-;the more common spelling seems to be <equinoxe>
+39498:SabdaSleza:equinoque:equivoque:+
 ;scan error
 39510:Sama:synonomous:synonymous:+
 ;scan error
