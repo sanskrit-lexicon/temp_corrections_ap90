@@ -62,7 +62,7 @@
 4387:azAQa:twentyfirst:twenty-first:typo
 4419:azwANgapAta:gound:ground:scan error
 4481:asatpaTa:practive:practice:typo
-4609:asidaMzwra:swordtoothed
+4609:asidaMzwra:swordtoothed:OK
 4617:asiDenu:swordlike:sword-like:typo
 4625:asimeda:emulcent:demulcent:scan error
 4667:asfgdarA:moenorrhagia:menorrhagia:typo
@@ -111,7 +111,7 @@
 6836:uttejita:longe:OK
 7000:udarAmaya:diarrhaea:diarrhoea:scan error
 7218:uDras:considerded:considered:scan error
-7245:unmada:extacy:ecstacy:scan error
+7245:unmada:extacy:ecstasy:scan error
 7250:unmanTana:weapong:weapon:typo
 7374:upadrava:supervenient:OK
 7393:upanAha:ciliary:OK
@@ -124,6 +124,7 @@
 8030:ftuprApta:deseason:scan error
 ;scan is illegible, perhaps <dry>
 ;solution not found, text not corrected
+; jim: shs has 'due'.  Also Wilson 1819 has 'due'
 8070:fzyaproktA:racemousus:racemosus:typo
 8184:ekAdaSa:efficious:efficacious:typo
 8274:E:heigh:OK
@@ -187,8 +188,10 @@
 11150:kuharita:congressus:OK
 11171:kUjita:inarticulartely:inarticulately:typo
 11349:kftAnta:actum:OK
-11390:kfttivAsas:tygers:OK
+; 11390:kfttivAsas:tygers:OK
+11390:kfttivAsas:tyger:tiger:scan error
 ;obsolete usage of <tiger>
+; jim changed to tiger, as 'tiger' occurs 49 times in WIL, 'tyger' only once.
 11412:kfpa:mecy:mercy:scan error
 11415:kfpARa:scissars:scissors:scan error
 11440:kfmiSukti:oystershell:oyster-shell:typo
@@ -244,7 +247,8 @@
 13983:gopa:milkwoman:OK
 14011:gopucCa:cowtail:OK
 14075:golADyAya:spherics:OK
-14129:gOtama:patronomic:OK
+14129:gOtama:patronomic:patronymic:scan error
+; jim changed to patronymic, which WIL uses 42 times.
 14166:granTi:varicocele:OK
 14264:grAmyamAMsa:fiesh:fresh:scan error
 14302:gleya:fatiguable:fatigable:scan error
@@ -273,7 +277,9 @@
 15668:Cedya:exscission:excision:scan error
 15834:janiman:engenderment:OK
 15887:jambu:jambolana:OK
-15974:jalakANkza:utinf:ut inf:scan error
+;15974:jalakANkza:utinf:ut inf:scan error
+15974:jalakANkza:utinf:ut infra:scan error
+; jim changed to 'infra'. 'ut infra' is Latin phrase, used 5 times in WIL.
 15976:jalakAntAra:watergem:water-gem:typo
 16024:jalapitta:adust:OK
 16112:jalASraya:waterhouse:water-house:typo
@@ -293,8 +299,10 @@
 17413:tAlISa:corypha:OK
 17576:tIrita:noninfliction:non-infliction:typo
 17727:tuzArakAla:coid:cold:scan vague
-17771:tUlikA:matrass:OK
+;17771:tUlikA:matrass:OK
 ;obsolete usage
+17771:tUlikA:matrass:mattress:scan error
+; jim changed.
 17794:tfRatA:gramineousness:OK
 17799:tfRamaRi:aparently:apparently:scan error
 17917:toda:teaze:tease:scan error
@@ -312,7 +320,9 @@
 18859:dAruRa:terrifick:terrific:scan error
 18984:dilIpa:ancestoor:ancestor:scan error
 19075:dIpapuzpa:enkindling:OK
-19236:duRquBa:venemous:OK
+;19236:duRquBa:venemous:OK
+19236:duRquBa:venemous:venomous:scan error
+; jim changed. venomous used 19 times
 19325:durddazwa:illexamined:ill-examined:typo
 19335:durnivAra:hindred:hindered:typo
 19345:durBedya:disumited:disunited:typo
@@ -351,6 +361,7 @@
 21747:nipatyA:plashy:OK
 22026:nirDAryya:energetick:energetic:scan error
 ;several similar scan errors, <ck> printed instead of <c>
+; jim: these are archaic spellings. We probably should change.
 22069:niryARa:footrope:foot-rope:typo
 22147:nilAyitA:domesticality:OK
 22349:nizpratiBa:apathetick:apathetic:scan error
@@ -363,6 +374,7 @@
 22995:paRitavya:negociable:negotiable:scan error
 ;<negociable> is acceptable in French but then it should have the accent which it doesn't
 ;so I think it is a scan error
+; jim: agree with this reasoning.
 23037:patiGnI:murderness:murderess:typo
 23077:patrapASyA:goldleaf:gold-leaf:typo
 23175:padmapuzpa:corymbosa:OK
@@ -388,6 +400,7 @@
 24688:piRqa:dactylifera:OK
 24688:piRqa:flor:OK
 24688:piRqa:plen:OK
+; jim: the above two are abbreviations
 24712:piRqAlu:diuretick:diuretic:scan error
 24725:piRqISUra:quean:OK
 24795:pinAka:threepronged:three-pronged:typo
@@ -415,6 +428,7 @@
 26740:pravrajita:molis:molis?:typo
 ;in the scan there is a question mark
 ;<molis> is right
+; jim: agree to put question mark back in; I added a space before '?'
 27372:plusa:plusira:OK
 ;not English
 27373:pleva:plevf:OK
@@ -441,7 +455,10 @@
 28367:BasmakAra:ley:OK
 28372:BasmaveDaka:distresser:OK
 28395:BAgin:coheiress:co-heiress:typo
-28412:BARqaka:merchandize:OK
+;28412:BARqaka:merchandize:OK
+28412:BARqaka:merchandize:merchandise:scan error
+; jim changed.  'ise' is used 2 times elsewhere in WIL, 'ize' only here
+;  'ise' is common spelling
 28551:BitticOra:burglarious:OK
 28595:BItavat:fraid:Afraid:typo
 28634:BujagadAraRa:ardea:OK
@@ -469,6 +486,7 @@
 30110:mAqa:mAqf:OK
 ;not English
 30160:mAda:extasy:OK
+; jim: archaic variant of ecstasy (Merriam-Webster)
 30303:mAlin:flowergatherer:flower-gatherer:typo
 30311:mASabdika:forbidder:OK
 30350:mi:qumiY:OK
@@ -496,6 +514,7 @@
 30984:meba:mebf:OK
 ;not English
 31088:mOzwA:fistycuffs:OK
+; jim: archaic for 'fisticuffs' ?
 31102:mruMca:mruYca:OK
 ;not English
 31103:mrewa:mredf:OK
@@ -526,7 +545,7 @@
 31669:raktapiRqa:madraspatana:OK
 31673:raktapuzpaka:tinctorea:OK
 ;more common spelling seems to be <tinctoria>
-;marked as OK as some botanical names' have different spellings
+;marked as OK as some botanical names have different spellings
 31731:rakzas:demicelestial:demi-celestial:typo
 31827:raRasaNkula:tumultuary:OK
 32024:rasADAra:wather:water:typo
@@ -641,7 +660,7 @@
 36682:vettf:espouser:OK
 36691:veda:printripal:principal:typo
 36732:vedAnta:monotheistical:OK
-36816:vezwaka:resingum:resin,gum:scan error
+36816:vezwaka:resingum:resin, gum:scan error
 36817:vezwana:meatus:OK
 36817:vezwana:auditorius:OK
 36862:vERika:lutist:OK
@@ -681,6 +700,8 @@
 ;another error <synonimous> corrected to <synonymous>
 ;scan error
 ;this may be the spelling accepted in Wilson but I couldn't find it anywhere
+; jim: Changed 8 other instances of 'synonimous' to 'synonymous'.  Did not
+; mark as print change (due to my laziness).
 38193:SAstra:philosphical:philosophical:typo
 38193:SAstra:erotick:erotic:scan error
 38253:SiKA:radicating:OK
@@ -692,6 +713,7 @@
 38568:SIla:welldisposed:well-disposed:typo
 ;this type of typo seems common, when hyphen falls at the end of the line
 ;the typist has thought the hyphen as word separater due to line break
+; jim: Would be good to find other cases, but probably difficult to find.
 38754:SuzkavraRa:cicatrised:OK
 38762:SUka:spicula:OK
 ;<spicule> and <spicula> both seem to be acceptable
@@ -754,6 +776,7 @@
 42708:sektf:aspergent:OK
 42766:sErinDra:workwoman:OK
 43005:stuta:penegyrised:OK
+; jim: Merriam Webster has 'z':  'panegyrize'
 43062:strInibanDana:housewifery:OK
 43614:svapnadoza:nocturna:OK
 43649:svaralAsikA:piple:pipe:typo
