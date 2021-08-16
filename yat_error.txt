@@ -1,4 +1,5 @@
 222:AMgnatretA:housholder:householder:scan error
+; jim: Also headword spelling error: agnitretA
 284:agraparRI:cowhage:OK
 358:aNganA:virgo:OK
 927:aDyagni:mariage:marriage:scan error
@@ -7,7 +8,7 @@
 2850:ardDAsana:sameseat:same seat:scan error
 2943:alasaka:tympanitis:OK
 3116:avacCedaka:predicater:predicator:scan error
-;I don't think <preicater> is an actual word
+;I don't think <predicater> is an actual word
 3149:avadAna:achievment:achievement:scan error
 3347:avahAryya:finable:OK
 ;variant of <fineable>
@@ -24,12 +25,15 @@
 4325:AkASadIpa:lanthorn:OK
 4567:AQakika:adhaca:OK
 ;not English
-4788:Anata:submiss:OK
+;4788:Anata:submiss:OK
 ;I think it is short for <submissive>
+4788:Anata:submiss:submissive
+; Jim agree. Confirm Wilson. Changed to submissive
 4820:AnIla:darkish:OK
 4832:AnuzaNgika:eliptical:elliptical:scan error
 5169:ArdDika:halver:OK
-5577:ikzvAku:lst:1st:typo
+5577:ikzvAku:lst:1st
+; typo
 6185:uttarapracCada:coverlid:OK
 6238:uttejita:longe:OK
 6350:udakaSAka:quatic:aquatic:scan error
@@ -44,17 +48,25 @@
 8203:kataka:strychnos:OK
 8350:kanyA:cadamoms:cardamoms:typo
 8357:kanyAdUzaka:violater:violator:scan error
-8429:kapIjya:mimisops:mimusops:typo
-8463:kabanDa:headles:headless:typo
-8580:karamukta:missible:missile:typo
+8429:kapIjya:mimisops:mimusops
+; typo
+8463:kabanDa:headles:headless
+; typo
+8580:karamukta:missible:missile
+; typo
 8615:karikusumBa:messua:OK
 8712:karRajalUkA:julus:OK
 ;not English
-9075:kavacahara:maulets:amulets:typo
-9137:kazwa:impervioius:impervious:typo
-9176:kAkakaRa:incurrable:incurable:typo
+9075:kavacahara:maulets:amulets
+; typo
+9137:kazwa:impervioius:impervious
+;typo
+9176:kAkakaRa:incurrable:incurable
+;typo
 ;scan error in headword
 ;<kAkakaRa> is printed as <kAkaRa>
+; jim:  kAkaRa is correct (cf. Wil, MW)
+; change yat.txt 
 9277:kAYcI:abrus:OK
 9369:kApyakAra:vowal:Avowal:scan vague
 9703:kAlAntaraviza:venemous:venomous:scan error
@@ -62,30 +74,37 @@
 ;not English
 10479:kuverAkzI:turmpet:trumpet:scan error
 10647:kUpaka:fune:fune-:typo
-11244:kozakAra:crysalis:OK
+;11244:kozakAra:crysalis:OK
+11244:kozakAra:crysalis:chrysalis
+;jim change.  Confer Wil, scan error
 11341:kOSala:salution:salutation:scan error
 11358:kOSeya:peticoat:petticoat:scan error
 11772:kzititala:eaths:earth's:typo
 11880:kzuttfzRopapIqita:gry:OK
 ;second half of the word
 ;another word <Huntard.> corrected to <Hun->:typo
+; jim.  Cannot find 'Huntard.' 
 11984:kzodizWa:levigated:OK
 12057:Kawaka:negociating:negotiating:scan error
 12141:Kadiropama:babul:OK
 ;not English
 12717:gamyamAna:travelsed:traversed:scan vague
 12744:gargara:guglet:OK
-12791:garBapAtana:bortion:Abortion:typo
+12791:garBapAtana:bortion:Abortion
+; typo
 12906:gAtu:gandharba:gandharva:scan error
 ;not English
 ;sometime <va> and <ba> are confused in some words
 13210:gulaYcakanda:esculentroot:esculent root:scan error
-13236:guhyaBAzita:muntra:OK
+;13236:guhyaBAzita:muntra:OK
 ;not English word
 ;more common spelling is <mantra>
+13236:guhyaBAzita:muntra:mantra
+; jim changed. scan error
 13319:gfhavyApAra:housewifery:OK
 13759:gleya:exhaustable:exhaustible:scan error
-13906:GArttika:clarfied:clarified:typo
+13906:GArttika:clarfied:clarified
+; typo
 13923:GurGura:dracunculus:OK
 14269:camarapucCa:bushtail:OK
 14279:campakAlu:integrifolio:OK
@@ -94,7 +113,8 @@
 ;another error <na> corrected to <na->:scan vague
 14293:car:whoredom:OK
 14784:cIri:vail:veil:scan error
-14917:cEtra:mounment:monument:typo
+14917:cEtra:mounment:monument
+; typo
 14943:colakin:cuirassier:OK
 15115:Curitodara:transpierced:OK
 15120:Ceka:buckish:OK
@@ -102,11 +122,13 @@
 15699:jAnuPalaka:kneepan:OK
 15795:jittama:gemini:OK
 15815:jihma:montana:OK
-16009:jYAnapUrvva:acquirment:acquirement:typo
+16009:jYAnapUrvva:acquirment:acquirement
+; typo
 16139:Jaza:lagopodeoides:OK
 16480:tantrin:chorded:OK
 17030:tIkzRaganDa:pandanus:OK
-17202:tuzAnala:captial:capital:typo
+17202:tuzAnala:captial:capital
+; typo
 17248:tUlikA:matrass:OK
 17477:trayIDarmma:injoined:enjoined:scan error
 17578:tripada:trinomial:OK
@@ -155,7 +177,9 @@
 26041:pramAdikA:defloured:deflowered:scan error
 26180:pravAda:derfiance:defiance:typo
 26258:praSAntaDI:serence:serene:typo
-26509:prARanta:hickup:OK
+;26509:prARanta:hickup:OK
+26509:prARanta:hickup:hiccup
+; jim. scan error. Could not find 'hickup' as alternate spelling
 26833:prozWapadA:pegasus:OK
 26885:PaYjikA:hedysarum:OK
 26916:Palaka:frontis:OK
@@ -227,14 +251,16 @@
 32524:liga:infold:OK
 32614:lUtA:aspiders:a spider's:scan vague
 32614:lUtA:surine:urine:scan vague
+; jim: also change in-falmmation -> in-flammation
 32805:lOhabanDa:chian:chain:typo
-32846:vaMSya:kingsman:OK
+;32846:vaMSya:kingsman:OK
 ;more commonly used spelling seems to be <kinsman>
+32846:vaMSya:kingsman:kinsman
+; jim: scan error.  Cf. Wilson
 32866:vaktavya:speek:speak:scan error
 33241:varambarA:nux:OK
 33241:varambarA:vomica:OK
-33430:varzavara:eu:eunuch:scan error
-33430:varzavara:nuch:eunuch:scan error
+33430:varzavara:eu nuch:eunuch:scan error
 33477:varhizmat:frie:fire:typo
 33528:valli:ligustum:OK
 33883:vAtarAyaRa:bowshot:OK
@@ -249,7 +275,10 @@
 36168:vfScika:scorpio:OK
 36173:vfza:taurus:OK
 36509:vEdya:physicina:physician:typo
-36627:vorapawwI:mattrass:OK
+;36627:vorapawwI:mattrass:OK
+36627:vorapawwI:mattrass:mattress
+; jim scan error.  There is a word 'mattrass' as variant spelling of 'matrass'
+; but it means 'a rounded glass flask with a long neck formerly used for dissolving substances by the application of heat or for distilling'
 36672:vyatikrama:retractation:OK
 36925:vyAvfti:skreening:screening:scan error
 37207:Sataka:cento:OK
@@ -272,5 +301,6 @@
 42356:sUcImuKa:daimond:diamond:typo
 44332:hoqf:footpad:OK
 44737:avyaktagati:slily:OK
+; jim. less common for <slyly>
 44741:avyaBicArin:stedfast:steadfast:scan error
 45070:kzuttfqudBava:thristy:thirsty:scan error
