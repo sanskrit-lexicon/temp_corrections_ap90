@@ -1,3 +1,5 @@
+_Created: 15-05-2026 · Last updated: 05-09-2026_
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
@@ -31,3 +33,5 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 - **Python 3**
 - **CORRECTIONS** sibling repo — source of `_error.txt` files
+
+_Dr. Mārcis Gasūns_
