@@ -59,3 +59,5 @@ technical, or proper-name forms).
   upstream source of the `*_error.txt` spell-check lists.
 
 _Dr. Mārcis Gasūns_
+
+**AI surface:** n/a: data-only, not a drain pick. (H5173, 20-09-2026)
